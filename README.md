@@ -1,4 +1,4 @@
-# Applications of t-SNE on Geochemical data
+# Applications of t-SNE on Geochemical Data
 
 The respiratory provides the codes and associated data sets on applications of t-SNE on geochemical data. This respiratory has been used to generate the results in: 
 
