@@ -11,7 +11,8 @@ The repository file contains:
 │   ├── JianghanPlain.csv                              # Jianghan Plain groundwater data set 
 │   ├── JianghanPlain.ipynb                            # Jupyter notebook in Python to generate the results
 │   ├── Yang-2020-Using cluster.pdf                    # The paper of Yang et al. (2020)
-├── OsloTRansect        
+├── OsloTRansect
+│   ├── OsloFERROG_Rescaled.csv                        # Rescaled data for samples of plant materials FER and ROG 
 │   ├── OsloTRansect.csv                               # OsloTRansect data set 
 │   ├── OsloTRansect.ipynb                             # Jupyter notebook in Python to generate the results
 │   ├── OsloTransect.rda                               # The orginal R data downloaded from R package "rrcov"
