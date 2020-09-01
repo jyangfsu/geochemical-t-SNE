@@ -2,7 +2,7 @@
 
 The respiratory provides the codes and associated data sets on applications of t-SNE on geochemical data. This respiratory has been used to generate the results in: 
 
-Liu, H., J. Yang, Y. Ming, Z. Tang, S. James, J. Dong and T. Xing (2020). Using a Machine Learning Method (t-SNE) to Delineate Spatial Zones of Groundwater Geochemistry in Regional Aquifers, submitted for publishcation in Journal of Hydrology. 
+Liu, H., J. Yang, Y. Ming, S. James, Z. Tang, J. Dong and T. Xing (2020). Using t-distributed Stochastic Neighbor Embedding (t-SNE) for cluster analysis and spatial zone delineation of groundwater geochemistry data, submitted for publishcation in Journal of Hydrology. 
 
 The repository file contains:
 
