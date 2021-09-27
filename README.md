@@ -2,7 +2,7 @@
 
 The respiratory provides the codes and associated data sets on applications of t-SNE on geochemical data. This respiratory has been used to generate the results in: 
 
-Liu, H., J. Yang, Y. Ming, S. James, Z. Tang, J. Dong and T. Xing (2020). Using t-distributed Stochastic Neighbor Embedding (t-SNE) for cluster analysis and spatial zone delineation of groundwater geochemistry data, submitted for publication in Journal of Hydrology. 
+Liu, H., J. Yang*, Y. Ming*, S. James, Z. Tang, J. Dong and T. Xing (2021). Using t-distributed Stochastic Neighbor Embedding (t-SNE) for cluster analysis and spatial zone delineation of groundwater geochemistry data, Journal of Hydrology, 597, 126146. https://doi.org/10.1016/j.jhydrol.2021.126146.
 
 The repository file contains:
 
